@@ -22,6 +22,10 @@ Tampermonkey 油猴脚本，在 Jellyfin/Emby 媒体服务器详情页底部显�
 - `ESC` 或点击遮罩 → 关闭大图
 - 脚本菜单（Tampermonkey 图标）→ 切换"从第1张/第2张开始"
 
+## 致谢
+
+本脚本基于 [Squirtle](https://greasyfork.org/zh-CN/scripts/489553) 原作（由 WorkBuddy 适配）修改而来，遵循 [MIT 协议](LICENSE)。
+
 ## 许可证
 
 MIT
